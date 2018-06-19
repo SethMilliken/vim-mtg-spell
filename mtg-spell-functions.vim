@@ -23,6 +23,7 @@ endfunction
 function! TransformCardNamesToSpellingEntries() " {{{
     %s/[")(.]//ge
     %s/,\? /\r/ge
+    %s/://ge
     %sort u
     %call RemoveCorrectlySpelledWords()
 endfunction
