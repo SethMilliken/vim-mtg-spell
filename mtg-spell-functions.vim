@@ -1,10 +1,28 @@
 " Transforms a list of MTG card names into a line-separated list
 " of words original to MTG.
 "
-" Source this file and then `:call TransformCardNamesToSpellingEntries()<CR>`
+" Source this file and then `:MakeMtgSpell<CR>`
+command! MakeMtgSpell :call MakeMtgSpell()
+
+let s:script_path = expand('<sfile>:p:h')
+
+function! MakeMtgSpell() " {{{
+    call TransformCardNamesToSpellingEntries()
+    call SaveSpellingFile()
+endfunction
+
+" }}}
+function! SaveSpellingFile() " {{{
+    let splfile = s:script_path . "/spell/mtg.utf-8.spl"
+    let addfile = s:script_path . "/spell/mtg.utf-8.add"
+    exe "saveas! " . addfile
+    exe "mkspell! " . splfile . " " . addfile
+endfunction
+
+" }}}
 function! TransformCardNamesToSpellingEntries() " {{{
-    %s/[")(.]//g
-    %s/,\? /\r/g
+    %s/[")(.]//ge
+    %s/,\? /\r/ge
     %sort u
     %call RemoveCorrectlySpelledWords()
 endfunction
