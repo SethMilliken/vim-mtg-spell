@@ -1,5 +1,6 @@
-" Transforms a list of MTG card names into a line-separated list
-" of words original to MTG.
+" Transforms a buffer of words from various MTG sources (e.g. card
+" names, set names, rules text) into a line-separated list of words
+" original to MTG and uses this list to generate a vim spell-file.
 "
 " Source this file and then `:MakeMtgSpell<CR>`
 command! MakeMtgSpell :call MakeMtgSpell()
@@ -7,7 +8,7 @@ command! MakeMtgSpell :call MakeMtgSpell()
 let s:script_path = expand('<sfile>:p:h')
 
 function! MakeMtgSpell() " {{{
-    call TransformCardNamesToSpellingEntries()
+    call TransformBufferWordsToSpellingEntries()
     call SaveSpellingFile()
 endfunction
 
@@ -20,10 +21,13 @@ function! SaveSpellingFile() " {{{
 endfunction
 
 " }}}
-function! TransformCardNamesToSpellingEntries() " {{{
+function! TransformBufferWordsToSpellingEntries() " {{{
+    " Remove non-word characters
     %s/[")(.]//ge
+    %s/[:—]/ /ge
+    " Every word on a separate line
     %s/,\? /\r/ge
-    %s/://ge
+    call RemoveSpecialCases()
     %sort u
     %call RemoveCorrectlySpelledWords()
 endfunction
@@ -42,6 +46,19 @@ function! RemoveCorrectlySpelledWords() range " {{{
     endfor
     exec a:firstline + 1 . "," . a:lastline . "d"
     call setline(a:firstline, l:bad_words)
+endfunction
+
+" }}}
+function! RemoveSpecialCases() " {{{
+    " Onay igpay atinlay
+    g/^\(\l\|-\)*ay$/d
+    g/Oubleday/d
+    " Don't need pi
+    %s/π//ge
+    " Remove Augment names
+    g/-$/d
+    " No
+    g/AskUrza/d
 endfunction
 
 " }}}
