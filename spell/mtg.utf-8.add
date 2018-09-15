@@ -46,6 +46,7 @@ Aetherling
 Aethermage
 Aethermage's
 Aetherplasm
+Aethershield
 Aethersnatch
 Aethersnipe
 Aethersphere
@@ -97,6 +98,8 @@ Altisaur
 Aluren
 Amaranthine
 Amesha
+Aminatou
+Aminatou's
 Ammit
 Amphin
 Ampryn
@@ -167,7 +170,9 @@ Argoth
 Argothian
 Arguel's
 Arien
+Arixmethes
 Arjun
+Arkbow
 Arlinn
 Armasaur
 Armillary
@@ -427,6 +432,7 @@ Bloodsworn
 Bloodtallow
 Bloodthorn
 Bloodthrone
+Bloodtracker
 Bloodwater
 Bloodwitch
 Blustersquall
@@ -437,6 +443,7 @@ Bogbrew
 Boggart
 Boggarts
 Bogle
+Bogstomper
 Boilerworks
 Bojuka
 Bolas's
@@ -518,6 +525,7 @@ Broodmother
 Broodstar
 Broodwarden
 Brownscale
+Brudiclad
 Brume
 Bruna
 Bruse
@@ -540,6 +548,7 @@ C14
 C15
 C16
 C17
+C18
 CED
 CEI
 CHK
@@ -644,6 +653,7 @@ Circu
 Citanul
 Clachan
 Clambassadors
+Clancaller
 Cleanfall
 Clearcutter
 Clickslither
@@ -943,6 +953,7 @@ Doorbuster
 Doran
 Dosan
 Dosan's
+Doublecast
 Dourbark
 Dovescape
 Dovin
@@ -958,6 +969,7 @@ Dragonlord
 Dragonlord's
 Dragonmaster
 Dragonrage
+Dragonrider
 Dragonscale
 Dragonshift
 Dragonskull
@@ -1128,6 +1140,8 @@ Ertai's
 Esper
 Esperzoa
 Estark
+Estrid
+Estrid's
 Estwald
 Etali
 Ethercaste
@@ -1187,6 +1201,7 @@ Farseer
 Farsight
 Fastbond
 Fateshaper
+Fateshifter
 Fatespinner
 Fatestitcher
 Faultgrinder
@@ -1221,6 +1236,7 @@ Fiendslayer
 Firebeast
 Firebird
 Fireblast
+Fireblood
 Fireboar
 Firebolt
 Firebombers
@@ -1374,6 +1390,7 @@ Gargadon
 Garna
 Garruk
 Garruk's
+Gatebreaker
 Gatecreeper
 Gateguards
 Gateless
@@ -1442,6 +1459,7 @@ Gigadrowse
 Gigantiform
 Gigantomancer
 Gigantoplasm
+Gigantosaurus
 Gigapede
 Giltgrove
 Giltspire
@@ -1515,6 +1533,7 @@ Gomazoa
 Gond
 Gonti
 Gonti's
+Goreclaw
 Gorehorn
 Goretusk
 Gorgers
@@ -1545,6 +1564,7 @@ Gravespawn
 Gravestorm
 Gravetide
 Gravetiller
+Gravewaker
 Graxiplon
 Graypelt
 Grayscaled
@@ -1616,6 +1636,7 @@ Gwafa
 Gwendlyn
 Gwyllion
 Gyre
+Gyrus
 H09
 HML
 Haakon
@@ -1712,6 +1733,7 @@ Hidetsugu
 Hidetsugu's
 Hierarch
 Hieromancer
+Hieromancer's
 Hierophant
 Hierophant's
 Hierophants
@@ -1762,6 +1784,7 @@ Howltooth
 Hua
 Huatli
 Huatli's
+Humiliator
 Hunding
 Hundroog
 Huntbeast
@@ -1850,6 +1873,7 @@ Ironwright
 Ironwright's
 Isamaru
 Isao
+Isareth
 Ishai
 Ishi-Ishi
 Ishkanah
@@ -2035,6 +2059,7 @@ Keralia
 Keranos
 Kess
 Kessig
+Kestia
 Keymaster
 Keyrune
 Kezzerdrix
@@ -2191,6 +2216,7 @@ Laquatus's
 Lashknife
 Lashweed
 Lashwrithe
+Lathliss
 Lathnu
 Latulla
 Latulla's
@@ -2325,6 +2351,7 @@ M12
 M13
 M14
 M15
+M19
 MBS
 MD1
 ME2
@@ -2526,6 +2553,7 @@ Mishra's
 Mistbind
 Mistbinder
 Mistblade
+Mistcaller
 Mistcutter
 Mistfire
 Mistfolk
@@ -2633,6 +2661,7 @@ NMS
 NPH
 Naar
 Naban
+Nabber
 Nacatl
 Nafs
 Naga
@@ -2881,6 +2910,7 @@ PLS
 PO2
 POR
 PTK
+Packbeast
 Packleader
 Packmaster
 Padeem
@@ -3160,6 +3190,7 @@ Regna's
 Reikai
 Reito
 Reiver
+Rejuvenator
 Reki
 Remora
 Ren
@@ -3169,6 +3200,7 @@ Renn
 Reshaper
 Retaliator
 Retether
+Retrofitter
 Retromancer
 Revane
 Reveillark
@@ -3184,6 +3216,7 @@ Rhystic
 Ri
 Riddleform
 Riddlekeeper
+Riddlemaster
 Riddlesmith
 Ridgeback
 Ridgeline
@@ -3267,6 +3300,7 @@ Ruham
 Ruhan
 Ruinator
 Ruinblaster
+Ruiner
 Rukh
 Rumbler
 Rune-Cervin
@@ -3289,6 +3323,7 @@ Rushwood
 Rustmouth
 Rustrazor
 Rustspore
+Rustwing
 Rysorian
 Ryusei
 S00
@@ -3531,6 +3566,7 @@ Sickleslicer
 Sidar
 Sidisi
 Sidisi's
+Siegebreaker
 Siegecraft
 Siegehorn
 Sigarda
@@ -3553,6 +3589,7 @@ Silumgar
 Silumgar's
 Silvain
 Silverback
+Silverbeak
 Silverblade
 Silverchase
 Silverclad
@@ -3580,6 +3617,7 @@ Sivvi
 Sivvi's
 Skaab
 Skaabs
+Skalla
 Skarrg
 Skarrgan
 Skeletonize
@@ -3643,6 +3681,7 @@ Skyreach
 Skyreaping
 Skyreaver
 Skyrider
+Skyscanner
 Skyscout
 Skyscribing
 Skyshaper
@@ -3752,6 +3791,7 @@ Sparkmage
 Sparkmage's
 Sparksmith
 Sparkspitter
+Sparktongue
 Spawnbinder
 Spawnbroker
 Spawnsire
@@ -3914,6 +3954,7 @@ Sunblast
 Sunbond
 Sunbringer's
 Sunchaser
+Suncleanser
 Suncrusher
 Sunfire
 Sunflare
@@ -4042,6 +4083,7 @@ Teeka's
 Teferi
 Teferi's
 Tel-Jilad
+Telchor
 Telemin
 Teleportal
 Telethopter
@@ -4077,6 +4119,7 @@ Tezzeret's
 Thada
 Thalakos
 Thallid
+Thantis
 Thassa
 Thassa's
 Thaumatic
@@ -4209,6 +4252,7 @@ Trapfinder's
 Trapjaw
 Trapmaker's
 Traproot
+Trashmaster
 Traxos
 Treefolk
 Treespeaker
@@ -4250,6 +4294,7 @@ Turtleshell
 Tuskcaller
 Tuskguard
 Tuskodon
+Tuvasa
 Twiddlestick
 Twigwalker
 Twinblade
@@ -4344,7 +4389,9 @@ Vampiric
 Vandalblast
 Vanishment
 Vaporkin
+Varchild
 Varchild's
+Varina
 Varolz
 Vastwood
 Vatmother
@@ -4400,6 +4447,8 @@ Vish
 Vitalist
 Vitaspore
 Vithian
+Vivien
+Vivien's
 Vizkopa
 Vizzerdrix
 Voda
@@ -4468,6 +4517,7 @@ Warleader's
 Warmind
 Warshrieker
 Warstorm
+Warweaver
 Wasitora
 Watchkeep
 Watchward
@@ -4538,6 +4588,7 @@ Windborne
 Windbrisk
 Windform
 Windgrace
+Windgrace's
 Windreader
 Windreaper
 Windreaver
@@ -4636,6 +4687,7 @@ Yavimaya's
 Yawgmoth
 Yawgmoth's
 Ydwen
+Yennett
 Yeva
 Yeva's
 Yi
@@ -4651,6 +4703,7 @@ Yu's
 Yuki-Onna
 Yukora
 Yun
+Yuriko
 Zacama
 Zada
 Zada's
