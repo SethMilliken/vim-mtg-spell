@@ -23,8 +23,8 @@ endfunction
 " }}}
 function! TransformBufferWordsToSpellingEntries() " {{{
     " Remove non-word characters
-    %s/[")(.]//ge
-    %s/[:—]/ /ge
+    %s/[".]//ge
+    %s/[)(:—]/ /ge
     " Every word on a separate line
     %s/,\? /\r/ge
     call RemoveSpecialCases()
