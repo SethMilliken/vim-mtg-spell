@@ -34,6 +34,7 @@ Advokist
 Aegisaur
 Aeolipile
 Aerathi
+Aeromunculus
 Aeronaut
 Aeronauts
 Aerosaur
@@ -105,6 +106,8 @@ Aminatou
 Aminatou's
 Ammit
 Amphin
+Amplifire
+Amplifire's
 Ampryn
 Amrou
 Amugaba
@@ -351,6 +354,7 @@ Belzenlok
 Benalia
 Benalish
 Benthicore
+Benthid
 Bequeathal
 Berit
 Berserkers
@@ -359,6 +363,7 @@ Bident
 Binox
 Biomancer
 Biomancer's
+Biomancy
 Biomantic
 Bioshift
 Biovisionary
@@ -372,6 +377,7 @@ Bitterheart
 Blackblade
 Blackblade's
 Blackcleave
+Bladebrand
 Bladehold
 Blademane
 Blademaster
@@ -430,6 +436,7 @@ Bloodhusk
 Bloodlord
 Bloodmad
 Bloodmark
+Bloodmist
 Bloodpainter
 Bloodpyre
 Bloodrage
@@ -466,6 +473,7 @@ Boilerworks
 Bojuka
 Bolas's
 Boldwyr
+Bolrac-Clan
 Boltwing
 Bomat
 Bonebreaker
@@ -651,6 +659,7 @@ Chatzuk
 Cheatyface
 Chemister
 Chemister's
+Chillbringer
 Chirurgeon
 Chisei
 Chiss-Goria
@@ -674,6 +683,7 @@ Cinderbones
 Cinderhaze
 Cinderhorn
 Cinders's
+Cindervines
 Circu
 Citanul
 Citywatch
@@ -979,6 +989,7 @@ Dominaria
 Dominaria's
 Dominus
 Domri
+Domri's
 Doomfall
 Doomgape
 Doomsuits
@@ -992,6 +1003,7 @@ Dourbark
 Dourbark's
 Dovescape
 Dovin
+Dovin's
 Dracogenius
 Dracoplasm
 Dracoplasm's
@@ -1119,6 +1131,7 @@ Elderscale
 Elderwood
 Eldrazi
 Electrickery
+Electrodominance
 Electrolyze
 Electromancer
 Electropotence
@@ -1301,6 +1314,7 @@ Fiendslayer
 Findbroker
 Firebeast
 Firebird
+Fireblade
 Fireblast
 Fireblood
 Fireboar
@@ -1399,6 +1413,7 @@ Fogbringer
 Fogwalker
 Fomori
 Footbottom
+Footlight
 Foratog
 Forcemage
 Forerunners's
@@ -1730,6 +1745,7 @@ Gurzigost
 Gustcloak
 Gustha's
 Gustrider
+Gutterbones
 Gutwrencher
 Guul
 Gwafa
@@ -1747,6 +1763,7 @@ Haakon
 Haazda
 Hachette
 Hackblade
+Hackrobat
 Hada
 Hadana's
 Hagra
@@ -1896,6 +1913,7 @@ Hua
 Huatli
 Huatli's
 Humiliator
+Humongulus
 Hunding
 Hundroog
 Huntbeast
@@ -2100,6 +2118,7 @@ Junún
 Jura
 Jushi
 Justiciar
+Justiciar's
 Juzám
 Jwar
 Jwari
@@ -2164,6 +2183,7 @@ Kathari
 Kavu
 Kavu's
 Kaya
+Kaya's
 Kaysa
 Kazandu
 Kazarov
@@ -2376,6 +2396,7 @@ Lavinia
 Lawbringer
 Lawkeeper
 Lawmage
+Lawmage's
 Lazav
 Leadfoot
 Leafcaller
@@ -2452,6 +2473,7 @@ Liu
 Live's
 Livewire
 Livonya
+Lizrog
 Llanowar
 Llanowar's
 Llawan
@@ -2530,6 +2552,7 @@ Magemark
 Mageta
 Mageta's
 Magewright's
+MagicFest
 Magister
 Magmaquake
 Magmaroth
@@ -2934,6 +2957,7 @@ Nightwing
 Nihil
 Nihilith
 Nikko-Onna
+Nikya
 Nim
 Nimana
 Nin
@@ -2988,6 +3012,7 @@ Nyxborn
 O'Kill
 O-Kagachi
 O-Naginata
+OARC
 OC13
 OC14
 OC15
@@ -2997,8 +3022,12 @@ OC18
 OCM1
 OCMD
 ODY
+OE01
 OGW
+OHOP
 OLGC
+OPC2
+OPCA
 ORI
 OVNT
 Oakenform
@@ -3201,6 +3230,7 @@ PPOD
 PPRE
 PPRO
 PR2
+PRED
 PREL
 PRM
 PRNA
@@ -3392,6 +3422,7 @@ Prototyper
 Pseudamma
 Psychatog
 Psychotrope
+Pteramander
 Pterodon
 Pteron
 Puca's
@@ -3468,6 +3499,7 @@ Ragamuffyn
 Ragavan
 Ragebeast
 Rageblood
+Ragefire
 Rageform
 Ragemonger
 Ragemutt
@@ -3535,6 +3567,7 @@ Reejerey
 Refibrillator
 Reflip
 Regathan
+Regenesis
 Regisaur
 Regna
 Regna's
@@ -3546,6 +3579,7 @@ Reki
 Remora
 Ren
 Rendclaw
+Rendhorn
 Renewer
 Renn
 Reroll
@@ -3703,6 +3737,7 @@ Safekeeper
 Safewright
 Saffi
 Sagittars
+Sagittars'
 Sagu
 Sah
 Saheeli
@@ -3754,6 +3789,7 @@ Saruli
 Sasaya
 Sasaya's
 Saskia
+Sauroform
 Savaen
 Savageborn
 Savra
@@ -3777,6 +3813,7 @@ Scarwood
 Scarzam
 Schismotivate
 Schmategy
+Scorchmark
 Scorchwalker
 Scoria
 Scourgemark
@@ -3796,6 +3833,7 @@ Scryer
 Scrying
 Scudder
 Scuta
+Scuttlegator
 Scuttlemutt
 Scuttler
 Scuzzback
@@ -3871,6 +3909,7 @@ Shapesharer
 Shapeshifter's
 Sharding
 Shardless
+Sharktocrab
 Sharuum
 Shattergang
 Shatterskull
@@ -3982,6 +4021,7 @@ Skaabs
 Skalla
 Skarrg
 Skarrgan
+Skatewing
 Skeletonize
 Skerry
 Skifsang
@@ -4069,6 +4109,7 @@ Slaughterhorn
 Slaughtermaster
 Slavedriver
 Sliderunner
+Slimebind
 Slimefoot
 Slingbow
 Slinn
@@ -4192,6 +4233,7 @@ Spidersilk
 Spiderwig
 Spikeshot
 Spiketail
+Spikewheel
 Spincrusher
 Spineback
 Spinebiter
@@ -4671,6 +4713,7 @@ Triskelavus
 Triskelion
 Trokair
 Trokin
+Trollbred
 Trollhide
 Tromokratis
 Tromper
@@ -4738,6 +4781,7 @@ Uncage
 Uncaged
 Undeath
 Undercity
+Undercity's
 Underrealm
 Undorak
 Unesh
@@ -4793,6 +4837,7 @@ Valleymaker
 Vampiric
 Vandalblast
 Vanishment
+Vannifar
 Vaporkin
 Varchild
 Varchild's
