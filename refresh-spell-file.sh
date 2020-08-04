@@ -6,8 +6,10 @@ completion_list="mtg-cardname-completion-list"
 candidate_list="mtg-raw-word-list"
 
 curl -L -O http://mtgjson.com/json/AllCards.json.zip
+curl -L -O http://mtgjson.com/json/AllPrintings.json.zip
 curl -L -O http://mtgjson.com/json/SetList.json
 unzip -f -u AllCards.json.zip
+unzip -f -u AllPrintings.json.zip
 
 # Card Names
 jq -r 'to_entries[] | {"key": .key} | .key' AllCards.json | sort | tee ${completion_list} > ${candidate_list}
