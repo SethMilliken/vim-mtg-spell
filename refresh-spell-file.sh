@@ -4,24 +4,27 @@ spl_file="spell/mtg.utf-8.spl"
 transform_file="mtg-spell-functions.vim"
 completion_list="mtg-cardname-completion-list"
 candidate_list="mtg-raw-word-list"
+mtgjson_home="https://mtgjson.com/api/v5"
 
-curl -L -O http://mtgjson.com/json/AllCards.json.zip
-curl -L -O http://mtgjson.com/json/AllPrintings.json.zip
-curl -L -O http://mtgjson.com/json/SetList.json
-unzip -f -u AllCards.json.zip
-unzip -f -u AllPrintings.json.zip
+if [ $# == 0 ]; then
+curl -L -O ${mtgjson_home}/AtomicCards.json.zip
+curl -L -O ${mtgjson_home}/AllPrintings.json.zip
+curl -L -O ${mtgjson_home}/SetList.json
+fi
+unzip -u AtomicCards.json.zip
+unzip -u AllPrintings.json.zip
 
 # Card Names
-jq -r 'to_entries[] | {"key": .key} | .key' AllCards.json | sort | tee ${completion_list} > ${candidate_list}
+jq -r '.data[] | to_entries[] | .value | .name' AtomicCards.json | sort | tee ${completion_list} > ${candidate_list}
 
 # Set Names
-jq -r '.[].name' SetList.json | sort >> ${candidate_list}
+jq -r '.data[] | .name' SetList.json | sort >> ${candidate_list}
 
 # Set Codes
-jq -r '.[].code | ascii_upcase' SetList.json | sort >> ${candidate_list}
+jq -r '.data[] | .code | ascii_upcase' SetList.json | sort >> ${candidate_list}
 
 # Card Text
-jq -r 'to_entries[] | {"text": .value.text} | .text' AllCards.json >> ${candidate_list}
+jq -r '.data[] | to_entries[] | .value | .text' AtomicCards.json >> ${candidate_list}
 
 cp ${candidate_list} ${add_file}
 vim +":so ${transform_file}" +":MakeMtgSpell" +":q" ${add_file}
