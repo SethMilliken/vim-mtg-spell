@@ -59,9 +59,6 @@ function! RemoveSpecialCases() " {{{
     g/-$/d
     " No
     g/AskUrza/d
-    " Temporary: https://github.com/mtgjson/mtgjson/issues/599
-    %s/insted/instead/g
-    %s/cerature/creature/g
 endfunction
 
 " }}}
