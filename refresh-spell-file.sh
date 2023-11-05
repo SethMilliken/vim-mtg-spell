@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 add_file="spell/mtg.utf-8.add"
 spl_file="spell/mtg.utf-8.spl"
 transform_file="mtg-spell-functions.vim"
