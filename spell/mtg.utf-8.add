@@ -2,72 +2,22 @@
 'Aaah!'
 2XM
 5DN
-A-Acererak
-A-Akki
-A-Alrund
-A-Alrund's
-A-Asari
-A-Bretagard
-A-Brinebound
-A-Bruenor
-A-Cabaretti
-A-Capenna
-A-Dawnbringer
-A-Demilich
-A-Dokuchi
-A-Dragonborn
-A-Dreamshackle
-A-Dwarfhold
-A-Eiganjo
-A-Elderfang
-A-Elderleaf
-A-Ellywick
-A-Glittermonger
-A-Gnarlid
-A-Goma
-A-Guildsworn
-A-Hagra
-A-Kargan
-A-Kenku
-A-Krydle
-A-Lier
-A-Minsc
-A-Nahiri
-A-Narfi
-A-Nashi
-A-Nezumi
-A-Omnath
-A-Phylath
-A-Pseudodragon
-A-Queza
-A-Raiyuu
-A-Riveteers
-A-Satoru
-A-Shessra
-A-Sigardian
-A-Skemfar
-A-Skyclave
-A-Spara's
-A-Tanazir
-A-Teferi
-A-Thornmantle
-A-Tyr's
-A-Tyvar
-A-Umara
-A-Winota
 AAFR
 ABRO
 ACLB
 ACMM
+ACR
 ADMU
 AER
 AJMP
 AKH
 AKHM
 AKR
+ALCI
 ALTR
 AMH1
 AMH2
+AMKM
 AMOM
 ANB
 ANEO
@@ -209,11 +159,13 @@ Alirios
 Allenal
 Allons-y!
 Alora
+Alquist
 Alrund
 Alrund's
 Alseid
 Alseids
 Altac
+Altaïr
 Altisaur
 Aluren
 Amaranthine
@@ -233,6 +185,7 @@ Ampryn
 Amroth
 Amrou
 Amugaba
+Amzu
 An-Havva
 An-Zerrin
 Anaba
@@ -276,6 +229,8 @@ Anurid
 Anvilwrought
 Anya
 Anypony
+Anzrag
+Anzrag's
 Ao
 Aphemia
 Aphetto
@@ -295,6 +250,7 @@ Arachnogenesis
 Arachnus
 Aracnir
 Aradara
+Aradesh
 Aragorn
 Arahbo
 Arashi
@@ -320,6 +276,7 @@ Archaeomender
 Archaics
 Archdemon
 Archdruid
+Archdruid's
 Archelos
 Archers's
 Archghoul
@@ -351,6 +308,7 @@ Argivian
 Argoll
 Argoth
 Argothian
+Arguel
 Arguel's
 Arien
 Aris
@@ -400,6 +358,7 @@ Asmadi
 Asmira
 Asmodeus
 Asmoranomardicadaistinaculdacar
+Assaultron
 Assimilator
 Assquatch
 Astarion
@@ -428,8 +387,10 @@ Atropal
 Atsushi
 Atzal
 Atzocan
+Auditore
 Augermage
 Augustin
+Auld
 Auramancer
 Auramancer's
 Auramancers
@@ -489,6 +450,7 @@ BBD
 BCHR
 BFM
 BFZ
+BLB
 BNG
 BOK
 BRB
@@ -563,6 +525,7 @@ Basker
 Basri
 Basri's
 Bassara
+Batrider
 Batterbone
 Batterfist
 Batterhorn
@@ -650,6 +613,7 @@ Bhaal's
 Biblioplex
 Bident
 Bigby's
+Bighorner
 Bilepiper
 Billyrider
 Binox
@@ -742,6 +706,7 @@ Blisterspit
 Blisterstick
 Blisterzoa
 Blitzwing
+Bloatfly
 Bloodbat
 Bloodbog
 Bloodboil
@@ -806,6 +771,7 @@ Bloodtracker
 Bloodvial
 Bloodwater
 Bloodwitch
+Bloomburrow
 Bloomwielder
 Blorbian
 Blorpityblorpboop
@@ -834,12 +800,14 @@ Bojuka
 Bolas's
 Boldwyr
 Bolrac-Clan
+Boltbender
 Boltwing
 Bomat
 Bombadil
 Bombadil's
 Bondwarden
 Bonebreaker
+Bonebrute
 Bonecaller
 Boneclad
 Bonecobbler
@@ -919,6 +887,7 @@ Brenard
 Bretagard
 Breya
 Breya's
+Bria
 Briarberry
 Briarblade
 Briarbridge
@@ -997,7 +966,9 @@ Bushi
 Buttoneer
 Buzzardiers
 Buzzbark
+Buzzcrusher
 Byode
+Byrke
 Bywater
 Bösium
 C13
@@ -1016,6 +987,7 @@ CEI
 CHK
 CHR
 CLB
+CLU
 CM1
 CM2
 CMA
@@ -1040,6 +1012,7 @@ Caetus
 Cagebreakers
 Cagemail
 Cair
+Cait
 Calciderm
 Calciform
 Calcutron
@@ -1079,6 +1052,7 @@ Carabid
 Caracal
 Caradhras
 Carah
+Caravaneer
 Cardpecker
 Carnarium
 Carnassid
@@ -1088,6 +1062,7 @@ Carrionette
 Carth
 Carthalion
 Cartouche
+Cass
 Castellan
 Cateran
 Catgeist
@@ -1260,6 +1235,7 @@ Coatl
 Cobblebrute
 Codespell
 Codie
+Codsworth
 Cogmentor
 Cognician
 Cognivore
@@ -1316,6 +1292,7 @@ Crabapple
 Crackleburr
 Crackshot
 Cragcrown
+Cragflame
 Cragganwick
 Craghorn
 Cragplate
@@ -1329,9 +1306,11 @@ Crebain
 Creeperhulk
 Cremator
 Crewmate
+Crimestopper
 Criosphinx
 Croakid
 Crocanura
+Crocodelf
 Cromat
 Crookclaw
 Crookshank
@@ -1347,6 +1326,7 @@ Crypsis
 Cryptborn
 Cryptbreaker
 Cryptek
+Cryptex
 Cryptkeeper
 Cryptolith
 Cryptomancer
@@ -1487,6 +1467,7 @@ Daxos's
 Daya
 Daybound
 Daysquad
+DeLoria
 DePietro
 Deadapult
 Deadbridge
@@ -1498,6 +1479,7 @@ Deathbonnet
 Deathbringer
 Deathcap
 Deathclaw
+Deathclaws
 Deathcoil
 Deathcult
 Deathcurse
@@ -1550,6 +1532,7 @@ Degavolver
 Deglamer
 Delif's
 Delina
+Delney
 Delraich
 Delusionary
 Demilich
@@ -1641,6 +1624,7 @@ Doomskar
 Doomsuits
 Doomwake
 Doorbuster
+Doppelgang
 Doran
 Dosan
 Dosan's
@@ -1755,6 +1739,7 @@ Dromoka
 Dromoka's
 Dromosaur
 Dronepack
+Dronesmith
 Drossforge
 Drow
 Drownyard
@@ -1763,6 +1748,7 @@ Drumbellower
 Drumhunter
 Drunau
 Dualcaster
+Dualleech
 Duelcraft
 Duergar
 Duggan
@@ -1786,6 +1772,7 @@ Durin
 Durin's
 Durkwood
 Durnan
+Duskana
 Duskborne
 Duskbringer
 Duskdale
@@ -1854,6 +1841,7 @@ Egon
 Eidolon
 Eiganjo
 Eisenhorn
+Eivor
 Ekundu
 El-Hajjâj
 Eladamri
@@ -1872,6 +1860,7 @@ Electrodominance
 Electrolyze
 Electromancer
 Electropotence
+Electrosiphon
 Electryte
 Elemental's
 Elementalist
@@ -1900,6 +1889,7 @@ Elspeth
 Elspeth's
 Elturel
 Elturgard
+Elusen
 Embercat
 Emberclaw
 Embercleave
@@ -2041,8 +2031,11 @@ Extus
 Eyeblight
 Eyeblight's
 Eyeblights
+Eyebot
 Eyekite
 Eyetwitch
+Ezio
+Ezrim
 Ezuri
 Ezuri's
 Ezzaroot
@@ -2067,11 +2060,11 @@ F17
 F18
 FBB
 FBRO
+FCLU
 FDMU
 FJ22
 FJMP
 FLTR
-FMB1
 FMOM
 FONE
 FRF
@@ -2139,6 +2132,7 @@ Fengraf
 Fenlurker
 Fenric
 Fensnake
+Fenstalker
 Ferocidon
 Ferocidons
 Feroz's
@@ -2150,6 +2144,7 @@ Fertilid's
 Festercreep
 Festergloom
 Festerhide
+Festerleech
 Fetchling
 Fettergeist
 Feudkiller's
@@ -2196,6 +2191,7 @@ Firemaw
 Firemind
 Firemind's
 Firenado
+Firenze
 Firescreamer
 Fireshrieker
 Fireslinger
@@ -2312,6 +2308,7 @@ Forgemaster
 Forgestoker
 Foriys
 Foriysian
+Formalwear
 Foulblooded
 Foulbloods
 Foulmire
@@ -2418,6 +2415,7 @@ Gallowbraid
 Galvanizer
 Galvanoth
 Ganax
+Gannon
 Garami
 Garenbrig
 Gargadon
@@ -2437,7 +2435,9 @@ Gatstaf
 Gaveleer
 Gavi
 Gavony
+Gearbane
 Gearcrafter
+Geardrake
 Geargrabber
 Gearhulk
 Gearseeker
@@ -2667,8 +2667,10 @@ Gorbag
 Goreclaw
 Goreguts
 Gorehorn
+Gorehound
 Goremand
 Goremonger
+Gorespawn
 Gorestalker
 Goretusk
 Gorex
@@ -2751,6 +2753,7 @@ Grenzo's
 Greven
 Greyfax
 Greymond
+Griffnaut
 Grifter
 Grifter's
 Grifters
@@ -2792,6 +2795,7 @@ Gryff
 Gryff's
 Gryffwing
 Gríma
+Guai
 Guan
 Guardmage
 Guay
@@ -3127,6 +3131,7 @@ INV
 ISD
 ITP
 Ib
+Ibn-La'Ahad
 Icatian
 Icebind
 Icefeather
@@ -3369,6 +3374,7 @@ Jodah's
 Johtull
 Jokulhaups
 Jokulmorder
+Jolom
 Jolrael
 Jolrael's
 Jor
@@ -3391,6 +3397,7 @@ Jumpstart
 Jund
 Jungleborn
 Junji
+Junktown
 Junktroller
 Junkyo
 Juntu
@@ -3447,6 +3454,7 @@ Kalemne's
 Kalitas
 Kalonia
 Kalonian
+Kamachal
 Kamahl
 Kamahl's
 Kambal
@@ -3508,6 +3516,7 @@ Kathril
 Katilda
 Katilda's
 Katsumasa
+Kaust
 Kavu
 Kavu's
 Kaya
@@ -3692,6 +3701,7 @@ Krark
 Krark's
 Krark-Clan
 Krasis
+Krasis's
 Kraul
 Kraum
 Krav
@@ -3748,6 +3758,8 @@ Kydele
 Kykar
 Kylem
 Kyler
+Kylox
+Kylox's
 Kynaios
 Kyodai
 Kyoki
@@ -3790,9 +3802,11 @@ Lammasu
 Lampad
 Lampads
 Landbind
+Landlore
 Landroval
 Landshaper
 Landship
+Lanius
 Lannery
 Laquatus
 Laquatus's
@@ -3999,6 +4013,7 @@ Luminarch
 Luminate
 Luminesce
 Lumithread
+Lumra
 Lunarch
 Lunk
 Lupari
@@ -4027,6 +4042,7 @@ M15
 M19
 M20
 M21
+M3C
 MAFR
 MB1
 MBRO
@@ -4041,7 +4057,10 @@ ME4
 MGB
 MH1
 MH2
+MH3
+MKC
 MKHM
+MKM
 MMH2
 MMID
 MMQ
@@ -4062,6 +4081,7 @@ Maadi
 Maaka
 Maalfeld
 Maarika
+MacCready
 Macar
 Macetail
 Macie
@@ -4141,10 +4161,12 @@ Marchesa
 Marchesa's
 Mardu
 Marhault
+Mariposa
 Marisi
 Marisi's
 Marit
 Marjhan
+Marketwatch
 Marn
 Marneus
 Maro
@@ -4153,9 +4175,11 @@ Maro-Sorcerer's
 Marshdrinker
 Marshmist
 Marut
+Marvo
 Marwyn
 Marwyn's
 Masako
+Maskmaker
 Maskwood
 Masses's
 Mastercraft
@@ -4174,6 +4198,7 @@ Mavinda
 Mavren
 Mawcor
 Mawloc
+Maxson
 Mayael
 Mayael's
 Mazarbul
@@ -4193,11 +4218,13 @@ Meditant
 Medomai
 Medomai's
 Meekstone
+Meep
 Megaflora
 Megalegendary
 Megalodon
 Megamorph
 Megantic
+Megasloth
 Megatherium
 Megatog
 Megatron
@@ -4265,6 +4292,7 @@ Mikaeus
 Miko
 Mikokoro
 Mila
+Mileva
 Millikin
 Mimeofacture
 Mimeomancer
@@ -4322,8 +4350,10 @@ Minthara's
 Mintstrosity
 Mirari
 Mirari's
+Mirelurk
 Miren
 Mirko
+Mirko's
 Mirkwood
 Mirozel
 Mirran
@@ -4365,6 +4395,7 @@ Mistvault
 Mistveil
 Mistvein
 Mistwalker
+Mistway
 Mithral
 Mithril
 Mizzium
@@ -4434,6 +4465,7 @@ Morphic
 Morphling
 Morphling's
 Morselhoarder
+Morska
 Mortarion
 Mortarium
 Mortarpod
@@ -4453,6 +4485,7 @@ Mosstodon
 Mosswood
 Mosswort
 Mothdust
+Motherlode
 Mothman
 Mothrider
 Mountaincycling
@@ -4499,6 +4532,7 @@ Muxus
 Muzzio
 Muzzio's
 Mwonvuli
+Mycelic
 Mycoderm
 Mycodrax
 Mycodrax's
@@ -4519,8 +4553,10 @@ Myrkul
 Myrkul's
 Myrsmith
 Mythmaker
+Mythweaver
 Márton
 N'ghathrod
+NCR
 NEC
 NEM
 NPH
@@ -4669,11 +4705,13 @@ Nightbonder
 Nightbound
 Nightbringer
 Nightcreep
+Nightdrinker
 Nighteyes
 Nightfire
 Nightguard
 Nighthaze
 Nighthowler
+Nightkin
 Nightpack
 Nightscape
 Nightsinger's
@@ -4701,6 +4739,7 @@ Nimblewright
 Nimraiser
 Nimrodel
 Nin
+Nipton
 Nira
 Nirkana
 Nishoba
@@ -4739,11 +4778,14 @@ Norritt
 Norwood
 Nothic
 Novablast
+Novac
 Novellamental
 Novijen
 Noyan
 Nucklavee
+Nuka's
 Nuka-Cola
+Nuka-Nuke
 Nullhide
 Nullmage
 Nullpriest
@@ -4751,6 +4793,7 @@ Nullstone
 Nulltread
 Numa
 Numai
+Numens
 Numot
 Nurgle
 Nurgle's
@@ -4794,6 +4837,8 @@ ONC
 OPC2
 OPCA
 ORI
+OTJ
+OTP
 OVNT
 OVOC
 Oakenform
@@ -4948,6 +4993,7 @@ Ovinomancer
 Oviya
 Owlbear
 Owlin
+Owyn
 Oxid
 Oxidda
 Oyaminartok
@@ -4978,7 +5024,6 @@ P8ED
 P9ED
 PAER
 PAFR
-PAGL
 PAKH
 PAL00
 PAL01
@@ -5009,7 +5054,6 @@ PCMP
 PCNS
 PCON
 PCSP
-PCTB
 PCY
 PD2
 PD3
@@ -5037,6 +5081,7 @@ PEXO
 PF19
 PF20
 PF23
+PF24
 PFRF
 PFUT
 PGPT
@@ -5049,7 +5094,7 @@ PH18
 PH19
 PH20
 PH21
-PHED
+PH22
 PHEL
 PHJ
 PHOP
@@ -5073,15 +5118,17 @@ PKTK
 PL21
 PL22
 PL23
+PL24
+PLCI
 PLG20
 PLG21
 PLG22
 PLGM
 PLGN
-PLIST
 PLNY
 PLRW
 PLS
+PLST
 PLTR
 PM10
 PM11
@@ -5092,6 +5139,7 @@ PM15
 PM19
 PM20
 PM21
+PMAT
 PMBS
 PMDA
 PMEI
@@ -5099,6 +5147,7 @@ PMH1
 PMH2
 PMIC
 PMID
+PMKM
 PMMQ
 PMOA
 PMOM
@@ -5156,6 +5205,7 @@ PSOM
 PSS1
 PSS2
 PSS3
+PSS4
 PSTH
 PSTX
 PSUS
@@ -5172,6 +5222,7 @@ PTMP
 PTOR
 PTSNC
 PTSP
+PTSR
 PULG
 PUNH
 PUSG
@@ -5371,6 +5422,8 @@ Polymorphist's
 Polyraptor
 Pongify
 Ponyback
+Poq
+Poq's
 Porcuparrot
 Portyr
 Poultrygeist
@@ -5400,16 +5453,21 @@ Primaris
 Primevals'
 Primoc
 Primus
+Printlifter
 Prismari
 Prismite
 Prismwake
 Proclamator
 Prodder
+Proft
+Proft's
 Progenitus
+Projektor
 Prossh
 Protectiva
 Protomatter
 Prototyper
+Prydwen
 Pseudamma
 Pseudodragon
 Psychatog
@@ -5419,6 +5477,7 @@ Pteramander
 Pteranodon
 Pterodon
 Pteron
+Publick
 Puca's
 Pulmonic
 Pulsemage
@@ -5516,13 +5575,18 @@ RTR
 RVR
 Rabblemaster
 Rackling
+RadAway
 Radagast
 Raddic
 Rade
+Radgull
 Radha
 Radha's
 Radiant's
 Radjan
+Radrat
+Radroach
+Radstag
 Radstorm
 Rael
 Raffine
@@ -5626,6 +5690,7 @@ Reavers
 Rebbec
 Recombinator
 Recombiner
+Reconsecrator
 Recycla-bird
 Redemptor
 Redhorn
@@ -5698,6 +5763,7 @@ Ridgetop
 Ridgewolf
 Rielle
 Rienne
+Riftburst
 Riftcutter
 Riftmarked
 Riftstone
@@ -5755,6 +5821,7 @@ Roalesk
 Roastmaster
 Robaran
 Robo-Piñata
+Robobrain
 Roc
 Rockcaster
 Rocketship
@@ -5835,6 +5902,8 @@ Rukarumel
 Rukh
 Rulik
 Rumbler
+Rumblers
+Rumblers's
 Runadi
 Rundvelt
 Rune-Cervin
@@ -6010,6 +6079,8 @@ Scaleguard
 Scalelord
 Scalelords
 Scaleshield
+Scalesoul
+Scalespeaker
 Scalpelexis
 Scampire
 Scapeshift
@@ -6025,6 +6096,7 @@ Scarzam
 Schismotivate
 Schmategy
 Scooch
+Scorchbeast
 Scorchmark
 Scorchwalker
 Scorchwing
@@ -6082,6 +6154,7 @@ Seaswift
 Seatower
 Secretkeeper
 Secrets's
+Securitron
 Sedraxis
 Sedris
 Seedborn
@@ -6610,6 +6683,7 @@ Spearhunter
 Spearmaster
 Spearpoint
 Spearsage
+Speartail
 Spectrox
 Spellbane
 Spellblade
@@ -6659,6 +6733,7 @@ Spinebiter
 Spined
 Spinehorn
 Spinerock
+Spinesplitter
 Spinnerette
 Spinny
 Spinoderm
@@ -6745,6 +6820,7 @@ Stickfingers
 Stickfingers's
 Stillmoon
 Stiltstrider
+Stimpak
 Stingblade
 Stingerfling
 Stingmoggie
@@ -6818,6 +6894,7 @@ Storrev
 Storvald
 Storyweave
 Stoutarm
+Strandcatcher
 Strandwalker
 Strangleroot
 Stratadon
@@ -6914,6 +6991,7 @@ Sursi
 Surtland
 Surveil
 Surveilling
+Svega
 Svella
 Svogthos
 Svyelun
@@ -6951,6 +7029,7 @@ Sylex
 Sylvok
 Symbiote
 Symmetrist
+Syne
 Syphoner
 Syr
 Syrix
@@ -6977,6 +7056,8 @@ TSR
 Tabaxi
 Taborax
 Tadeas
+Taggerdy
+Taggerdy's
 Tagsin
 Tahngarth
 Tahngarth's
@@ -7019,6 +7100,7 @@ Tangleroot
 Tanglesap
 Tanglespan
 Tangletrap
+Tangletrove
 Tanglewalker
 Tangleweave
 Tanglewurm
@@ -7042,6 +7124,7 @@ Tarrian's
 Tasigur
 Tasigur's
 Taskmage
+Tato
 Tatsumasa
 Tatsunari
 Tatterkite
@@ -7049,6 +7132,7 @@ Tattermunge
 Tatyova
 Tauntings
 Taurean
+Tavernkeep
 Tavoc
 Tawnos
 Tawnos's
@@ -7099,6 +7183,7 @@ Terravore
 Terravore's
 Terrus
 Tervigon
+Tesak
 Teshar
 Tethmos
 Tetravite
@@ -7290,7 +7375,6 @@ Tomik
 Tomoya
 Toolcraft
 Topan
-Topdeck
 Topplegeist
 Tora
 Toralf
@@ -7354,6 +7438,7 @@ Treefolk's
 Treeshaker
 Treespeaker
 Treespring
+Treizeci
 Trelasarra
 Trenchcoat
 Trenzalore
@@ -7448,11 +7533,11 @@ UDS
 UGIN
 UGL
 ULG
+ULST
 UMA
 UND
 UNF
 UNH
-UPLIST
 UST
 Uba
 Ubul
@@ -7635,6 +7720,8 @@ Verix
 Vermiculos
 Vernadi
 Verrak
+Vertibird
+Vertibird's
 Vesperlark
 Vess
 Vesuva
@@ -7705,6 +7792,7 @@ Volo's
 Volrath
 Volrath's
 Volshe
+Voltstrider
 Vona
 Vona's
 Vorapede
@@ -7741,6 +7829,7 @@ WC98
 WC99
 WDMU
 WMC
+WMKM
 WMOM
 WOC
 WONE
@@ -7857,6 +7946,7 @@ Wheelsmith
 Whetwheel
 Whimwader
 Whipcorder
+Whipcracker
 Whipflare
 Whipgrass
 Whipkeeper
@@ -7919,6 +8009,7 @@ Windshaper
 Windswift
 Windwalker
 Windwright
+Wingbane
 Wingcrafter
 Wingfold
 Wingmantle
@@ -7940,6 +8031,7 @@ Wisent
 Wishclaw
 Wishcoin
 Wishmonger
+Wispdrinker
 Wispmare
 Wispweaver
 Witchbane
@@ -7989,9 +8081,11 @@ Worldknit
 Worldpurge
 Worldslayer
 Worldsoul
+Worldsoul's
 Worldspine
 Worldwake
 Worldwaker
+Worldwalker
 Wormfang
 Wormtongue
 Wose
@@ -8044,6 +8138,7 @@ Xyris
 Xyru
 YBRO
 YDMU
+YLCI
 YMID
 YNEO
 YONE
@@ -8058,10 +8153,12 @@ Yanggu
 Yanling
 Yanling's
 Yannik
+Yao
 Yare
 Yargle
 Yarok
 Yarok's
+Yarus
 Yasharn
 Yasova
 Yavimaya
@@ -8197,6 +8294,7 @@ d20
 d4
 d6
 d8
+da
 de'Arnise
 deathtouch
 del
@@ -8208,6 +8306,7 @@ everypony
 fateseal
 forestcycling
 forestwalk
+freerunning
 ghostform
 hoofprint
 il-Dal
@@ -8247,7 +8346,6 @@ nonsnow
 nonsorcery
 o's
 paralyzation
-payi
 phyresis
 plainscycling
 plainswalk
