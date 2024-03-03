@@ -59,6 +59,11 @@ function! RemoveSpecialCases() " {{{
     g/-$/d
     " No
     g/AskUrza/d
+    " Remove Alchemy versions
+    g/^A-/d
+    " Remove mispellings
+    g/creatire/d
+    g/palys/d
 endfunction
 
 " }}}
