@@ -24,7 +24,7 @@ endfunction
 function! TransformBufferWordsToSpellingEntries() " {{{
     " Remove non-word characters
     %s/[".]//ge
-    %s/[)(:—]/ /ge
+    %s/[)(:;—?]/ /ge
     " Every word on a separate line
     %s/,\? /\r/ge
     call RemoveSpecialCases()
@@ -59,11 +59,13 @@ function! RemoveSpecialCases() " {{{
     g/-$/d
     " No
     g/AskUrza/d
+    g/ASHer/d
+    g/ASHino/d
     " Remove Alchemy versions
     g/^A-/d
     " Remove mispellings
-    g/creatire/d
-    g/palys/d
+    g/reolves/d
+    g/battlfield/d
 endfunction
 
 " }}}
